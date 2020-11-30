@@ -1,0 +1,37 @@
+{
+    "name": "firefox-flow",
+    "displayName": "Firefox Flow",
+    "description": "A VSCode theme based on the Mozilla Firefox developer tools colors",
+    "version": "0.1.0",
+    "publisher": "blackblackcat",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Firefox",
+        "flow",
+        "pale",
+        "calm",
+        "theme",
+        "themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Firefox Flow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Firefox Flow-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/black-black-cat/vscode-firefox-flow"
+	},
+	"bugs": {
+		"url": "https://github.com/black-black-cat/vscode-firefox-flow/issues"
+	}
+}

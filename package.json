@@ -2,7 +2,7 @@
     "name": "firefox-flow",
     "displayName": "Firefox Flow",
     "description": "A VSCode theme based on the Mozilla Firefox developer tools colors",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "blackblackcat",
     "icon": "icon.png",
     "engines": {

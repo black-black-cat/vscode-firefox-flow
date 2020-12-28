@@ -2,7 +2,8 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#2c2c2c"
+    "editor.background": "#2c2c2c",
+    "list.hoverBackground": "#3af5"
   },
   "tokenColors": [
     {

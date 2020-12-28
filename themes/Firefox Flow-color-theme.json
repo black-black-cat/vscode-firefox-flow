@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
-	"include": "./workbench-colors.json",
+	"include": "./oni.json",
 	"tokenColors": [
 		{
 			"scope": [

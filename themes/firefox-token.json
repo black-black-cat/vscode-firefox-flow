@@ -296,7 +296,7 @@
     {
       "scope": ["constant.language.boolean.true"],
       "settings": {
-        "foreground": "#75BFFF"
+        "foreground": "#7c2"
       }
     },
     {

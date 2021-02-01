@@ -5,5 +5,5 @@
     "editor.background": "#2c2c2c",
     "list.hoverBackground": "#3af5"
   },
-  "include": "./firefox-token.json"
+  "include": "./oni-token.json"
 }

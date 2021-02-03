@@ -54,7 +54,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#FFCC66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#FFCC66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -120,7 +120,7 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -144,13 +144,13 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
 			"scope": "meta.selector",
 			"settings": {
-				"foreground": "#FFCC66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -169,7 +169,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -211,19 +211,19 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -269,7 +269,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#FFCC66"
+				"foreground": "#fd0a"
 			}
 		},
 		{
@@ -315,7 +315,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#ffcc66"
+				"foreground": "#fd0a"
 			}
 		},
 		{

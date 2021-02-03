@@ -8,5 +8,5 @@
     "editor.findMatchHighlightBackground": "#39C4",
     "editor.findMatchBackground": "#39C6",
   },
-  "include": "./lego-token.json"
+  "include": "./tina-token.json"
 }

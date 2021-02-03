@@ -115,14 +115,14 @@
         "entity.name.type.ts"
       ],
       "settings": {
-        "foreground": "#eaff80"
+        "foreground": "#ed0"
       }
     },
 
     {
       "scope": ["variable.other.readwrite.js", "variable.other.readwrite.ts"],
       "settings": {
-        "foreground": "#e5f595"
+        "foreground": "#ed0"
       }
     },
     {

@@ -2505,7 +2505,7 @@
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#66D9EF",
+                "foreground": "#0ED38B",
             }
         }
     ]

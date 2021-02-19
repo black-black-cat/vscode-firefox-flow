@@ -8,5 +8,5 @@
     "editor.findMatchHighlightBackground": "#39C4",
     "editor.findMatchBackground": "#39C6",
   },
-  "include": "./dejavu-token.json"
+  "include": "./inksea-token.json"
 }

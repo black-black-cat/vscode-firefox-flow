@@ -8,5 +8,5 @@
     "editor.findMatchHighlightBackground": "#39C4",
     "editor.findMatchBackground": "#39C6",
   },
-  "include": "./inksea-token.json"
+  "include": "./dracula-token.json"
 }

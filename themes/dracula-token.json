@@ -366,7 +366,7 @@
                 "source.tf entity.name"
             ],
             "settings": {
-                "foreground": "#f1fa8cdd"
+                "foreground": "#FFDC82"
             }
         },
         {
@@ -386,7 +386,7 @@
                 "text.tex markup.raw"
             ],
             "settings": {
-                "foreground": "#66d9ef"
+                "foreground": "#ffb86c"
             }
         },
         {

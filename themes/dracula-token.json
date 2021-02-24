@@ -799,6 +799,19 @@
             "settings": {
                 "fontStyle": ""
             }
+        },
+        {
+            "scope": "variable.other.object.property",
+            "settings": {
+                "foreground": "#ffb86c",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": "variable.other.property",
+            "settings": {
+                "fontStyle": ""
+            }
         }
     ]
 }

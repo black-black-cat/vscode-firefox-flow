@@ -1,7 +1,7 @@
 {
-    "name": "firefox-flow",
-    "displayName": "Firefox Flow",
-    "description": "A VSCode theme based on the Mozilla Firefox developer tools colors",
+    "name": "vscode-flow",
+    "displayName": "VSCode Flow",
+    "description": "This is the theme that I created.",
     "version": "0.1.2",
     "publisher": "blackblackcat",
     "icon": "icon.png",
@@ -25,6 +25,11 @@
                 "label": "Firefox Flow",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Firefox Flow-color-theme.json"
+            },
+            {
+                "label": "AAUU",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aauu-color-theme.json"
             }
         ]
     },

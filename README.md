@@ -1,3 +1,3 @@
-# Firefox Flow
+# VSCode Flow
 
-A VSCode theme based on the Mozilla Firefox developer tools colors.
+This is the theme that I created.

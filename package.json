@@ -2,7 +2,7 @@
     "name": "vscode-flow",
     "displayName": "VSCode Flow",
     "description": "This is the theme that I created.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "blackblackcat",
     "icon": "icon.png",
     "engines": {
@@ -22,14 +22,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Firefox Flow",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Firefox Flow-color-theme.json"
-            },
-            {
                 "label": "AAUU",
                 "uiTheme": "vs-dark",
                 "path": "./themes/aauu-color-theme.json"
+            },
+            {
+                "label": "Firefox Flow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Firefox Flow-color-theme.json"
             }
         ]
     },
